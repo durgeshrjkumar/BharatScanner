@@ -1,7 +1,5 @@
 
-#PRIVACY POLICY
-
-
+###PRIVACY POLICY
 
 This privacy policy governs your use of the software application Bharat Scanner for mobile devices that was created by Mr. Durgesh Kumar. Bharat Scanner is a utility tool to turn your mobile into a portable scanner, which can be used for scanning handwritten notes and printed documents. It also incorporates OCR functionality which the user can use to detect text from documents and save them as editable text files in the external storage of the device.  
 It also uses croping facility and pdf generation.
